@@ -2,6 +2,8 @@ Vanilla JS Challenge
 
 # Day 13-14 of 14
 
+https://torrythemaltese.github.io/vanilla-js-challenge-day-13-14/
+
 ### REQUIREMENTS
 
 1. Clock.
